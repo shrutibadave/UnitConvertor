@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UnitConversion</string>
+    <string-array name="contain">
+        <item>Doller To Rupees</item>
+        <item>Meter To Cm</item>
+        <item>Kg To Gram</item>
+        <item>Inches To Foot</item>
+        <item>Cm To Meter</item>
+        <item>Gram To Kg</item>
+        <item>Rupees  To Doller</item>
+        <item>Foot To Inches</item>
+
+
+    </string-array>
+</resources>
